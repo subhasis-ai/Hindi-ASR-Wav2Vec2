@@ -1,1 +1,2 @@
 This folder will created be created once you train the model.
+This folder does't contain actual model file the "pytorch_model.bin". I could not upload it here as it has size more than 1.3GB. I will add a separate link to download this file. Download the file and keep in this folder to run the testing code.
